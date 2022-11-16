@@ -1,6 +1,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Facebook][facebook-shield]][facebook-url]
 [![mail][mail-shield]][mail-url]
+[![Instagram][instagram-shield]][instagram-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -10,3 +11,5 @@
 [linkedin-url]: https://www.linkedin.com/in/mohammed-abuhanifa-4611b515b/
 [mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-moh.abuhanifa@gmail.com-lightgray
 [mail-url]: mailto:moh.abuhanifa@gmail.com
+[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
+[instagram-url]: https://www.instagram.com/shourovahmd/
