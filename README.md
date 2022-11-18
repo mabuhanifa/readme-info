@@ -1,5 +1,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![mail][mail-shield]][mail-url]
+[![Twitter][twitter-shield]][twitter-url]
 [![Facebook][facebook-shield]][facebook-url]
 [![Instagram][instagram-shield]][instagram-url]
 
@@ -13,6 +14,8 @@
 [mail-url]: mailto:moh.abuhanifa@gmail.com
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
 [instagram-url]: https://www.instagram.com/shourovahmd/
+[twitter-url]: https://twitter.com/mohabuhanifa
+[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&colorB=555
 
 <h1 align="center">Hi 👋, I'm Mohammed Abu Hanifa</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
