@@ -39,10 +39,10 @@
 
 <img src="https://img.shields.io/badge/-JSON Web Tokens-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=FFFFFF" height="30"/>
 
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" height="30"/>
+<img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=FFFFFF" height="30"/>
 
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" height="30"/>
+<img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=FFFFFF" height="30"/>
 
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" height="30"/>
+<img src="https://img.shields.io/badge/-Insomnia-4000BF?style=for-the-badge&logo=Insomnia&logoColor=FFFFFF" height="30"/>
 
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" height="30"/>
