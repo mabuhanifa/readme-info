@@ -9,12 +9,32 @@
 
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF" height="30"/>
 
-<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF" height="30"/>
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" height="30"/>
 
-<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF" height="30"/>
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF" height="30"/>
 
-<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF" height="30"/>
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF" height="30"/>
 
-<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF" height="30"/>
+<img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF" height="30"/>
 
-<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF" height="30"/>
+<img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-ChakraUI-319795?style=for-the-badge&logo=ChakraUI&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" height="30"/>
