@@ -31,6 +31,14 @@
 
 <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=FFFFFF" height="30"/>
 
+<img src="https://img.shields.io/badge/-.ENV-ECD53F?style=for-the-badge&logo=.ENV&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=JSON&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-JSON Web Tokens-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=FFFFFF" height="30"/>
+
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" height="30"/>
 
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" height="30"/>
