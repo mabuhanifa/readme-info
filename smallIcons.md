@@ -6,4 +6,15 @@
 <img src="https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=FFFFFF" height="30"/>
 
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF" height="30"/>
+
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF" height="30"/>
+
 <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF" height="30"/>
