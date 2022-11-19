@@ -20,11 +20,23 @@
 <img src="https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook&logoColor=1877F2" height="40"/>
 </a>
 
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26&text=black" height="35"/>
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" height="35"/>
 
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6" height="35"/>
 
 <img src="https://img.shields.io/badge/javascript-black.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="35"/>
+
+<img src="https://img.shields.io/badge/HTML5-30363D?style=for-the-badge&logo=html5&logoColor=E34F26&" height="35"/>
+
+<img src="https://img.shields.io/badge/CSS3-30363D?style=for-the-badge&logo=css3&logoColor=1572B6" height="35"/>
+
+<img src="https://img.shields.io/badge/javascript-30363D.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="35"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35"/>
+
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="35"/>
 
 ---
 
