@@ -58,22 +58,22 @@
 
 <img src="https://img.shields.io/badge/-ChakraUI-20232A?style=for-the-badge&logo=ChakraUI&logoColor=319795" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Chart.js-20232A?style=for-the-badge&logo=Chart.js&logoColor=FF6384" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-.ENV-ECD53F?style=for-the-badge&logo=.ENV&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-.ENV-20232A?style=for-the-badge&logo=.ENV&logoColor=ECD53F" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=Git&logoColor=F05032" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=JSON&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-JSON-20232A?style=for-the-badge&logo=JSON&logoColor=000000" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-JSON Web Tokens-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-JSON Web Tokens-20232A?style=for-the-badge&logo=JSON Web Tokens&logoColor=000000" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-NestJS-20232A?style=for-the-badge&logo=NestJS&logoColor=E0234E" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Jest-20232A?style=for-the-badge&logo=Jest&logoColor=C21325" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-Insomnia-4000BF?style=for-the-badge&logo=Insomnia&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Insomnia-20232A?style=for-the-badge&logo=Insomnia&logoColor=4000BF" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Canva-20232A?style=for-the-badge&logo=Canva&logoColor=00C4CC" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=Git&logoColor=F05032" height="35"/>&nbsp;
