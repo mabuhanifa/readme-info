@@ -22,41 +22,41 @@
 
 <img src="https://img.shields.io/badge/firebase-20232A.svg?&style=for-the-badge&logo=firebase&logoColor=FFCA28" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=43853D" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=4DB33D" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Express-20232A?style=for-the-badge&logo=express&logoColor=000000" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Next.js-20232A?style=for-the-badge&logo=Next.js&logoColor=000000" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-NGINX-20232A?style=for-the-badge&logo=NGINX&logoColor=009639" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Docker-20232A?style=for-the-badge&logo=Docker&logoColor=2496ED" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-TypeScript-20232A?style=for-the-badge&logo=TypeScript&logoColor=3178C6" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=Git&logoColor=F05032" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Figma-20232A?style=for-the-badge&logo=Figma&logoColor=F24E1E" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Postman-20232A?style=for-the-badge&logo=Postman&logoColor=FF6C37" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Redux-20232A?style=for-the-badge&logo=Redux&logoColor=764ABC" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Webpack-20232A?style=for-the-badge&logo=Webpack&logoColor=8DD6F9" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-npm-20232A?style=for-the-badge&logo=npm&logoColor=CB3837" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Go-20232A?style=for-the-badge&logo=Go&logoColor=00ADD8" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Python-20232A?style=for-the-badge&logo=Python&logoColor=3776AB" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-GraphQL-20232A?style=for-the-badge&logo=GraphQL&logoColor=E10098" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/-ChakraUI-319795?style=for-the-badge&logo=ChakraUI&logoColor=FFFFFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-ChakraUI-20232A?style=for-the-badge&logo=ChakraUI&logoColor=319795" height="35"/>&nbsp;
 
 <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=FFFFFF" height="35"/>&nbsp;
 
