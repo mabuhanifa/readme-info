@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=CA4245" height="35"/>&nbsp;
 
-<img src=" 	https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699" height="35"/>&nbsp;
 
 <img src="https://img.shields.io/badge/MUI-20232A?style=for-the-badge&logo=MUI&logoColor=007FFF" height="35"/>&nbsp;
 
