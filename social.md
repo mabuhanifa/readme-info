@@ -6,4 +6,12 @@
 
 <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=LinkedIn&color=555&logoColor=0A66C2" height="35"/>
 
+<img src="https://img.shields.io/badge/-Youtube-black.svg?style=for-the-badge&logo=Youtube&color=555&logoColor=FF0000" height="35"/>
+
+<img src="https://img.shields.io/badge/-Facebook-black.svg?style=for-the-badge&logo=facebook&color=555&logoColor=1877F2" height="35"/>
+
+<img src="https://img.shields.io/badge/-Facebook-black.svg?style=for-the-badge&logo=facebook&color=555&logoColor=1877F2" height="35"/>
+
+<img src="https://img.shields.io/badge/-Facebook-black.svg?style=for-the-badge&logo=facebook&color=555&logoColor=1877F2" height="35"/>
+
 <img src="https://img.shields.io/badge/-Facebook-black.svg?style=for-the-badge&logo=facebook&color=555&logoColor=1877F2" height="35"/>
