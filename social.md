@@ -16,6 +16,12 @@
 
 <img src="https://img.shields.io/badge/-Fiverr-black.svg?style=for-the-badge&logo=Fiverr&color=555&logoColor=1DBF73" height="35"/>
 
+<img src="https://img.shields.io/badge/-Upwork-black.svg?style=for-the-badge&logo=Upwork&color=555&logoColor=6FDA44" height="35"/>
+
+<img src="https://img.shields.io/badge/-CodePen-black.svg?style=for-the-badge&logo=CodePen&color=555&logoColor=1877F2" height="35"/>
+
+<img src="https://img.shields.io/badge/-Facebook-black.svg?style=for-the-badge&logo=facebook&color=555&logoColor=1877F2" height="35"/>
+
 <img src="https://img.shields.io/badge/-Facebook-black.svg?style=for-the-badge&logo=facebook&color=555&logoColor=1877F2" height="35"/>
 
 <img src="https://img.shields.io/badge/-Facebook-black.svg?style=for-the-badge&logo=facebook&color=555&logoColor=1877F2" height="35"/>
