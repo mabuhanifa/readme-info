@@ -8,7 +8,8 @@
 
 # Project Details
 
-## Project Name :
+- This a react-redux application
+- This project is built with redux-toolkit
 
 ## Technology used :
 
