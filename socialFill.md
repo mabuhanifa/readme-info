@@ -22,7 +22,7 @@
 
 <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=fff" height="35"/>
 
-<img src="https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=Instagram&color=555&logoColor=E4405F" height="35"/>
+<img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=Instagram&logoColor=E4405F" height="35"/>
 
 &nbsp;
 
