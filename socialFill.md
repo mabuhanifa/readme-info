@@ -76,7 +76,11 @@
 
 &nbsp;
 
-<!-- --------------------------- -->
+<!-- --------------Pinterest------------- -->
+<img src="https://img.shields.io/badge/-Pinterest-black.svg?style=for-the-badge&logo=Pinterest&color=555&logoColor=BD081C" height="35"/>
+
+<img src="https://img.shields.io/badge/-Pinterest-black.svg?style=for-the-badge&logo=Pinterest&color=555&logoColor=BD081C" height="35"/>
+
 <img src="https://img.shields.io/badge/-Pinterest-black.svg?style=for-the-badge&logo=Pinterest&color=555&logoColor=BD081C" height="35"/>
 
 &nbsp;
