@@ -53,7 +53,7 @@
 
 <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=Youtube&color=FF0000&logoColor=fff" height="35"/>
 
-<img src="https://img.shields.io/badge/-Youtube-black.svg?style=for-the-badge&logo=Youtube&color=555&logoColor=FF0000" height="35"/>
+<img src="https://img.shields.io/badge/-Youtube-20232A?style=for-the-badge&logo=Youtube&logoColor=FF0000" height="35"/>
 
 &nbsp;
 
