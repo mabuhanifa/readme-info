@@ -99,9 +99,9 @@
 
 <img src="https://img.shields.io/badge/-Upwork-black.svg?style=for-the-badge&logo=Upwork&color=555&logoColor=6FDA44" height="35"/>
 
-<img src="https://img.shields.io/badge/-Upwork-black.svg?style=for-the-badge&logo=Upwork&color=555&logoColor=6FDA44" height="35"/>
+<img src="https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=fff" height="35"/>
 
-<img src="https://img.shields.io/badge/-Upwork-black.svg?style=for-the-badge&logo=Upwork&color=555&logoColor=6FDA44" height="35"/>
+<img src="https://img.shields.io/badge/-Upwork-20232A?style=for-the-badge&logo=Upwork&logoColor=6FDA44" height="35"/>
 
 &nbsp;
 
