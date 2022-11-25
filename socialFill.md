@@ -39,8 +39,11 @@
 &nbsp;
 
 <!-- --------------------------- -->
-
 <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=LinkedIn&color=555&logoColor=0A66C2" height="35"/>
+
+<img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=LinkedIn&color=0A66C2&logoColor=fff" height="35"/>
+
+<img src="https://img.shields.io/badge/-LinkedIn-20232A?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" height="35"/>
 
 &nbsp;
 
