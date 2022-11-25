@@ -70,6 +70,10 @@
 <!-- ------------Behance--------------- -->
 <img src="https://img.shields.io/badge/-Behance-black.svg?style=for-the-badge&logo=Behance&color=555&logoColor=1769FF" height="35"/>
 
+<img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=fff" height="35"/>
+
+<img src="https://img.shields.io/badge/-Behance-20232A?style=for-the-badge&logo=Behance&logoColor=1769FF" height="35"/>
+
 &nbsp;
 
 <!-- --------------------------- -->
