@@ -89,6 +89,10 @@
 
 <img src="https://img.shields.io/badge/-Fiverr-black.svg?style=for-the-badge&logo=Fiverr&color=555&logoColor=1DBF73" height="35"/>
 
+<img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=Fiverr&logoColor=fff" height="35"/>
+
+<img src="https://img.shields.io/badge/-Fiverr-20232A?style=for-the-badge&logo=Fiverr&logoColor=1DBF73" height="35"/>
+
 &nbsp;
 
 <!-- --------------------------- -->
