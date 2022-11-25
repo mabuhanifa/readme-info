@@ -57,9 +57,13 @@
 
 &nbsp;
 
-<!-- --------------------------- -->
+<!-- --------------Dribbble------------- -->
 
 <img src="https://img.shields.io/badge/-Dribbble-black.svg?style=for-the-badge&logo=Dribbble&color=555&logoColor=EA4C89" height="35"/>
+
+<img src="https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=Dribbble&logoColor=fff" height="35"/>
+
+<img src="https://img.shields.io/badge/-Dribbble-20232A?style=for-the-badge&logo=Dribbble&logoColor=EA4C89" height="35"/>
 
 &nbsp;
 
