@@ -18,7 +18,7 @@
 
 &nbsp;
 
-<!-- --------------------------- -->
+<!-- --------------Twitter------------- -->
 
 <img src="https://img.shields.io/badge/-Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&color=555&logoColor=1877F2" height="35"/>
 
@@ -28,7 +28,7 @@
 
 &nbsp;
 
-<!-- --------------------------- -->
+<!-- --------------Instagram------------- -->
 
 <img src="https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=Instagram&color=555&logoColor=E4405F" height="35"/>
 
@@ -38,7 +38,7 @@
 
 &nbsp;
 
-<!-- --------------------------- -->
+<!-- --------------LinkedIn------------- -->
 <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=LinkedIn&color=555&logoColor=0A66C2" height="35"/>
 
 <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=LinkedIn&color=0A66C2&logoColor=fff" height="35"/>
@@ -47,7 +47,7 @@
 
 &nbsp;
 
-<!-- --------------------------- -->
+<!-- --------------Youtube------------- -->
 
 <img src="https://img.shields.io/badge/-Youtube-black.svg?style=for-the-badge&logo=Youtube&color=555&logoColor=FF0000" height="35"/>
 
