@@ -95,6 +95,8 @@
 
 <img src="https://img.shields.io/badge/-Pinterest-20232A?style=for-the-badge&logo=Pinterest&logoColor=BD081C" height="35"/>
 
+<img src="https://img.shields.io/badge/-Pinterest-20232A?style=flat-square&logo=Pinterest&logoColor=BD081C" height="25"/>
+
 &nbsp;
 
 <!-- --------------Fiverr------------- -->
