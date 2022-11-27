@@ -107,6 +107,8 @@
 
 <img src="https://img.shields.io/badge/-Fiverr-20232A?style=for-the-badge&logo=Fiverr&logoColor=1DBF73" height="35"/>
 
+<img src="https://img.shields.io/badge/-Fiverr-20232A?style=flat-square&logo=Fiverr&logoColor=1DBF73" height="25"/>
+
 &nbsp;
 
 <!-- --------------Upwork------------- -->
