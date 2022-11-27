@@ -61,6 +61,8 @@
 
 <img src="https://img.shields.io/badge/-Youtube-20232A?style=for-the-badge&logo=Youtube&logoColor=FF0000" height="35"/>
 
+<img src="https://img.shields.io/badge/-Youtube-20232A?style=flat-square&logo=Youtube&logoColor=FF0000" height="25"/>
+
 &nbsp;
 
 <!-- --------------Dribbble------------- -->
