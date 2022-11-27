@@ -84,6 +84,8 @@
 
 <img src="https://img.shields.io/badge/-Behance-20232A?style=for-the-badge&logo=Behance&logoColor=1769FF" height="35"/>
 
+<img src="https://img.shields.io/badge/-Behance-20232A?style=flat-square&logo=Behance&logoColor=1769FF" height="25"/>
+
 &nbsp;
 
 <!-- --------------Pinterest------------- -->
