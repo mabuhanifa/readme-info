@@ -139,6 +139,10 @@
 
 <img src="https://img.shields.io/badge/-Github-black.svg?style=for-the-badge&logo=Github&color=555&logoColor=181717" height="35"/>
 
+<img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=fff" height="35"/>
+
+<img src="https://img.shields.io/badge/-Github-20232A?style=for-the-badge&logo=Github&logoColor=181717" height="35"/>
+
 &nbsp;
 
 <!-- --------------------------- -->
