@@ -26,7 +26,7 @@
 
 <img src="https://img.shields.io/badge/-Twitter-20232A?style=for-the-badge&logo=Twitter&logoColor=1877F2" height="35"/>
 
-<img src="https://img.shields.io/badge/-TWITTER-20232A?style=flat-square&logo=Twitter&logoColor=1877F2" height="25"/>
+<img src="https://img.shields.io/badge/-Twitter-20232A?style=flat-square&logo=Twitter&logoColor=1877F2" height="25"/>
 
 &nbsp;
 
@@ -48,6 +48,8 @@
 <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=LinkedIn&color=0A66C2&logoColor=fff" height="35"/>
 
 <img src="https://img.shields.io/badge/-LinkedIn-20232A?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" height="35"/>
+
+<img src="https://img.shields.io/badge/-LinkedIn-20232A?style=flat-square&logo=LinkedIn&logoColor=0A66C2" height="25"/>
 
 &nbsp;
 
