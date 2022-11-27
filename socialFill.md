@@ -119,6 +119,8 @@
 
 <img src="https://img.shields.io/badge/-Upwork-20232A?style=for-the-badge&logo=Upwork&logoColor=6FDA44" height="35"/>
 
+<img src="https://img.shields.io/badge/-Upwork-20232A?style=flat-square&logo=Upwork&logoColor=6FDA44" height="25"/>
+
 &nbsp;
 
 <!-- ------------CodePen--------------- -->
