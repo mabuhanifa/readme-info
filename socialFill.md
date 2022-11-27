@@ -73,6 +73,8 @@
 
 <img src="https://img.shields.io/badge/-Dribbble-20232A?style=for-the-badge&logo=Dribbble&logoColor=EA4C89" height="35"/>
 
+<img src="https://img.shields.io/badge/-Dribbble-20232A?style=flat-square&logo=Dribbble&logoColor=EA4C89" height="25"/>
+
 &nbsp;
 
 <!-- ------------Behance--------------- -->
