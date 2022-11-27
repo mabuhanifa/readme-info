@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/-Facebook-1877F2??style=flat&logo=facebook&logoColor=fff" height="25" />
 
-<img src="https://img.shields.io/badge/-Facebook-20232A?style=flat-square&logo=facebook&logoColor=1877F2" height="25" />
+<img src="https://img.shields.io/badge/-FACEBOOK-20232A?style=flat-square&logo=facebook&logoColor=1877F2" height="25" />
 
 <img src="https://img.shields.io/badge/-Facebook-20232A?style=for-the-badge&logo=facebook&logoColor=1877F2" height="25" />
 
@@ -25,6 +25,8 @@
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&color=1DA1F2&logoColor=fff" height="35"/>
 
 <img src="https://img.shields.io/badge/-Twitter-20232A?style=for-the-badge&logo=Twitter&logoColor=1877F2" height="35"/>
+
+<img src="https://img.shields.io/badge/-TWITTER-20232A?style=flat-square&logo=Twitter&logoColor=1877F2" height="25"/>
 
 &nbsp;
 
