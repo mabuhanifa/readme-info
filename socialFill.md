@@ -38,6 +38,8 @@
 
 <img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=Instagram&logoColor=E4405F" height="35"/>
 
+<img src="https://img.shields.io/badge/-Instagram-20232A?style=flat-square&logo=Instagram&logoColor=E4405F" height="25"/>
+
 &nbsp;
 
 <!-- --------------LinkedIn------------- -->
