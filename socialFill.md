@@ -131,6 +131,8 @@
 
 <img src="https://img.shields.io/badge/-CodePen-20232A?style=for-the-badge&logo=CodePen&logoColor=000000" height="35"/>
 
+<img src="https://img.shields.io/badge/-CodePen-20232A?style=flat-square&logo=CodePen&logoColor=000000" height="25"/>
+
 &nbsp;
 
 <!-- --------------------------- -->
