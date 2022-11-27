@@ -109,9 +109,9 @@
 
 <img src="https://img.shields.io/badge/-CodePen-black.svg?style=for-the-badge&logo=CodePen&color=555&logoColor=000000" height="35"/>
 
-<img src="https://img.shields.io/badge/-CodePen-black.svg?style=for-the-badge&logo=CodePen&color=555&logoColor=000000" height="35"/>
+<img src="https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&color=555&logoColor=fff" height="35"/>
 
-<img src="https://img.shields.io/badge/-CodePen-black.svg?style=for-the-badge&logo=CodePen&color=555&logoColor=000000" height="35"/>
+<img src="https://img.shields.io/badge/-CodePen-20232A?style=for-the-badge&logo=CodePen&logoColor=000000" height="35"/>
 
 &nbsp;
 
