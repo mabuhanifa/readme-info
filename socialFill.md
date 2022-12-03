@@ -165,6 +165,15 @@
 
 &nbsp;
 
+<!-- --------------Pinterest------------- -->
+<img src="https://img.shields.io/badge/-Pinterest-black.svg?style=flat-square&logo=Pinterest&color=555&logoColor=BD081C" height="25"/>
+
+<img src="https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=Pinterest&logoColor=fff" height="25"/>
+
+<img src="https://img.shields.io/badge/-Pinterest-20232A?style=flat-square&logo=Pinterest&logoColor=BD081C" height="25"/>
+
+&nbsp;
+
 <!-- --------------Fiverr------------- -->
 
 <img src="https://img.shields.io/badge/-Fiverr-black.svg?style=for-the-badge&logo=Fiverr&color=555&logoColor=1DBF73" height="35"/>
