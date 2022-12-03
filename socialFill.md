@@ -135,17 +135,6 @@
 &nbsp;
 
 <!-- ------------Behance--------------- -->
-<img src="https://img.shields.io/badge/-Behance-black.svg?style=for-the-badge&logo=Behance&color=555&logoColor=1769FF" height="35"/>
-
-<img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=fff" height="35"/>
-
-<img src="https://img.shields.io/badge/-Behance-20232A?style=for-the-badge&logo=Behance&logoColor=1769FF" height="35"/>
-
-<img src="https://img.shields.io/badge/-Behance-20232A?style=flat-square&logo=Behance&logoColor=1769FF" height="25"/>
-
-&nbsp;
-
-<!-- ------------Behance--------------- -->
 <img src="https://img.shields.io/badge/-Behance-black.svg?style=flat-square&logo=Behance&color=555&logoColor=1769FF" height="25"/>
 
 <img src="https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=Behance&logoColor=fff" height="25"/>
@@ -181,6 +170,16 @@
 <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=Fiverr&logoColor=fff" height="35"/>
 
 <img src="https://img.shields.io/badge/-Fiverr-20232A?style=for-the-badge&logo=Fiverr&logoColor=1DBF73" height="35"/>
+
+<img src="https://img.shields.io/badge/-Fiverr-20232A?style=flat-square&logo=Fiverr&logoColor=1DBF73" height="25"/>
+
+&nbsp;
+
+<!-- --------------Fiverr------------- -->
+
+<img src="https://img.shields.io/badge/-Fiverr-black.svg?style=flat-square&logo=Fiverr&color=555&logoColor=1DBF73" height="25"/>
+
+<img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=Fiverr&logoColor=fff" height="25"/>
 
 <img src="https://img.shields.io/badge/-Fiverr-20232A?style=flat-square&logo=Fiverr&logoColor=1DBF73" height="25"/>
 
