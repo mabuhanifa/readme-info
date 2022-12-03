@@ -70,6 +70,15 @@
 
 &nbsp;
 
+<!-- --------------LinkedIn------------- -->
+<img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=LinkedIn&color=555&logoColor=0A66C2" height="25"/>
+
+<img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=LinkedIn&color=0A66C2&logoColor=fff" height="25"/>
+
+<img src="https://img.shields.io/badge/-LinkedIn-20232A?style=flat-square&logo=LinkedIn&logoColor=0A66C2" height="25"/>
+
+&nbsp;
+
 <!-- --------------Youtube------------- -->
 
 <img src="https://img.shields.io/badge/-Youtube-black.svg?style=for-the-badge&logo=Youtube&color=555&logoColor=FF0000" height="35"/>
