@@ -40,8 +40,7 @@
 
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&color=1DA1F2&logoColor=fff" height="25"/>
 
-<img src="https://img.shields.io/badge/-Twitter-20232A?style=flat-square&logo=Twitter&logoColor=1877F2" height="25"/>
-&nbsp;
+<img src="https://img.shields.io/badge/-Twitter-20232A?style=flat-square&logo=Twitter&logoColor=1877F2" height="25"/>&nbsp;
 
 <!-- --------------Instagram------------- -->
 
@@ -51,9 +50,14 @@
 
 <img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=Instagram&logoColor=E4405F" height="35"/>
 
-<img src="https://img.shields.io/badge/-Instagram-20232A?style=flat-square&logo=Instagram&logoColor=E4405F" height="25"/>
+<img src="https://img.shields.io/badge/-Instagram-20232A?style=flat-square&logo=Instagram&logoColor=E4405F" height="25"/>&nbsp;
 
-&nbsp;
+<!-- --------------Instagram------------- -->
+<img src="https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=Instagram&color=555&logoColor=E4405F" height="35"/>
+
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=fff" height="35"/>
+
+<img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=Instagram&logoColor=E4405F" height="35"/>&nbsp;
 
 <!-- --------------LinkedIn------------- -->
 <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=LinkedIn&color=555&logoColor=0A66C2" height="35"/>
