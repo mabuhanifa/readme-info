@@ -7,6 +7,15 @@
 &nbsp;
 
 <!-- ------------style--------------- -->
+<img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&color=555&logoColor=fff" height="35"/>
+
+<img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=fff" height="35" />
+
+<img src="https://img.shields.io/badge/-Facebook-20232A?style=flat-square&logo=facebook&logoColor=1877F2" height="35" />
+
+&nbsp;
+
+<!-- ------------style--------------- -->
 
 <img src="https://img.shields.io/badge/-Facebook-1877F2??style=plastic&logo=facebook&color=555&logoColor=fff" height="25"/>
 
