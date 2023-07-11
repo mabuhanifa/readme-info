@@ -8,9 +8,9 @@
 
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=fff" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff" height="35"/>&nbsp;
 
-<img src="https://img.shields.io/badge/MUI-20232A?style=for-the-badge&logo=MUI&logoColor=007FFF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=fff" height="35"/>&nbsp;
 
 <img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7E0AF9" height="35"/>&nbsp;
 
