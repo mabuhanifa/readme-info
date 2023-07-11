@@ -40,3 +40,4 @@
 <img src="https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=Git&logoColor=F05032" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-Prisma-20232A?style=for-the-badge&logo=Prisma&logoColor=2D3748" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-Prisma-20232A?style=for-the-badge&logo=Sequelize&logoColor=52B0E7" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Supabase-20232A?style=for-the-badge&logo=Supabase&logoColor=3FCF8E" height="35"/>&nbsp;
