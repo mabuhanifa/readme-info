@@ -44,4 +44,7 @@
 <img src="https://img.shields.io/badge/-tRPC-20232A?style=for-the-badge&logo=tRPC&logoColor=2596BE" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-Nest-20232A?style=for-the-badge&logo=NestJS&logoColor=E0234E" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-PostgreSQL-20232A?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1" height="35"/>&nbsp;
+<br/>
 <img src="https://img.shields.io/badge/-PostCSS-20232A?style=for-the-badge&logo=PostCSS&logoColor=DD3A0A" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Vercel-20232A?style=for-the-badge&logo=Vercel&logoColor=000000" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Stack Overflow-20232A?style=for-the-badge&logo=StackOverflow&logoColor=F58025" height="35"/>&nbsp;
