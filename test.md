@@ -38,3 +38,4 @@
 <img src="https://img.shields.io/badge/-Insomnia-20232A?style=for-the-badge&logo=Insomnia&logoColor=4000BF" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-Canva-20232A?style=for-the-badge&logo=Canva&logoColor=00C4CC" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=Git&logoColor=F05032" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Prisma-20232A?style=for-the-badge&logo=Prisma&logoColor=2D3748" height="35"/>&nbsp;
