@@ -1,18 +1,33 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" height="35" />&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" height="35"/>&nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35"/>&nbsp;
-<img src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=CA4245" height="35"/>&nbsp;
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff" height="35"/>&nbsp;
+
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=fff" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/MUI-20232A?style=for-the-badge&logo=MUI&logoColor=007FFF" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7E0AF9" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/Netlify-20232A?style=for-the-badge&logo=netlify&logoColor=00C7B7" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/Heroku-20232A?style=for-the-badge&logo=heroku&logoColor=430098" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/firebase-20232A.svg?&style=for-the-badge&logo=firebase&logoColor=FFCA28" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=43853D" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=4DB33D" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-Express-20232A?style=for-the-badge&logo=express&logoColor=000000" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-Next.js-20232A?style=for-the-badge&logo=Next.js&logoColor=000000" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-NGINX-20232A?style=for-the-badge&logo=NGINX&logoColor=009639" height="35"/>&nbsp;
