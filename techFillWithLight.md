@@ -88,25 +88,69 @@
 <img src="https://img.shields.io/badge/-Go-20232A?style=for-the-badge&logo=Go&logoColor=00ADD8" height="35"/>&nbsp;
 
 <img src="https://img.shields.io/badge/-Python-20232A?style=for-the-badge&logo=Python&logoColor=3776AB" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Python-20232A?style=for-the-badge&logo=Python&logoColor=3776AB" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-GraphQL-20232A?style=for-the-badge&logo=GraphQL&logoColor=E10098" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-GraphQL-20232A?style=for-the-badge&logo=GraphQL&logoColor=E10098" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-ChakraUI-20232A?style=for-the-badge&logo=ChakraUI&logoColor=319795" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-ChakraUI-20232A?style=for-the-badge&logo=ChakraUI&logoColor=319795" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-Chart.js-20232A?style=for-the-badge&logo=Chart.js&logoColor=FF6384" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Chart.js-20232A?style=for-the-badge&logo=Chart.js&logoColor=FF6384" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-.ENV-20232A?style=for-the-badge&logo=.ENV&logoColor=ECD53F" height="35"/>&nbsp;
+
+<img src="https://img.shields.io/badge/-.ENV-20232A?style=for-the-badge&logo=.ENV&logoColor=ECD53F" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=Git&logoColor=F05032" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=Git&logoColor=F05032" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-JSON-20232A?style=for-the-badge&logo=JSON&logoColor=000000" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-JSON-20232A?style=for-the-badge&logo=JSON&logoColor=000000" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-JSON Web Tokens-20232A?style=for-the-badge&logo=JSON Web Tokens&logoColor=000000" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-JSON Web Tokens-20232A?style=for-the-badge&logo=JSON Web Tokens&logoColor=000000" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-NestJS-20232A?style=for-the-badge&logo=NestJS&logoColor=E0234E" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-NestJS-20232A?style=for-the-badge&logo=NestJS&logoColor=E0234E" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-Jest-20232A?style=for-the-badge&logo=Jest&logoColor=C21325" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Jest-20232A?style=for-the-badge&logo=Jest&logoColor=C21325" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-Insomnia-20232A?style=for-the-badge&logo=Insomnia&logoColor=4000BF" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Insomnia-20232A?style=for-the-badge&logo=Insomnia&logoColor=4000BF" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-Canva-20232A?style=for-the-badge&logo=Canva&logoColor=00C4CC" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Canva-20232A?style=for-the-badge&logo=Canva&logoColor=00C4CC" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=Git&logoColor=F05032" height="35"/>&nbsp;
+
+<img src="https://img.shields.io/badge/-Git-20232A?style=for-the-badge&logo=Git&logoColor=F05032" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-Prisma-20232A?style=for-the-badge&logo=Prisma&logoColor=2D3748" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Prisma-20232A?style=for-the-badge&logo=Prisma&logoColor=2D3748" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-Prisma-20232A?style=for-the-badge&logo=Sequelize&logoColor=52B0E7" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Prisma-20232A?style=for-the-badge&logo=Sequelize&logoColor=52B0E7" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-Supabase-20232A?style=for-the-badge&logo=Supabase&logoColor=3FCF8E" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Supabase-20232A?style=for-the-badge&logo=Supabase&logoColor=3FCF8E" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-tRPC-20232A?style=for-the-badge&logo=tRPC&logoColor=2596BE" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-tRPC-20232A?style=for-the-badge&logo=tRPC&logoColor=2596BE" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-Nest-20232A?style=for-the-badge&logo=NestJS&logoColor=E0234E" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Nest-20232A?style=for-the-badge&logo=NestJS&logoColor=E0234E" height="35"/>&nbsp;
+
+<img src="https://img.shields.io/badge/-PostgreSQL-20232A?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-PostgreSQL-20232A?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1" height="35"/>&nbsp;
 <br/>
 <img src="https://img.shields.io/badge/-PostCSS-20232A?style=for-the-badge&logo=PostCSS&logoColor=DD3A0A" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-PostCSS-20232A?style=for-the-badge&logo=PostCSS&logoColor=DD3A0A" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-Vercel-20232A?style=for-the-badge&logo=Vercel&logoColor=000000" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Vercel-20232A?style=for-the-badge&logo=Vercel&logoColor=000000" height="35"/>&nbsp;
+
+<img src="https://img.shields.io/badge/-Stack Overflow-20232A?style=for-the-badge&logo=StackOverflow&logoColor=F58025" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-Stack Overflow-20232A?style=for-the-badge&logo=StackOverflow&logoColor=F58025" height="35"/>&nbsp;
