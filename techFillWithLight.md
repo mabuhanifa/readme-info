@@ -82,7 +82,11 @@
 <img src="https://img.shields.io/badge/-Webpack-20232A?style=for-the-badge&logo=Webpack&logoColor=8DD6F9" height="35"/>&nbsp;
 
 <img src="https://img.shields.io/badge/-npm-20232A?style=for-the-badge&logo=npm&logoColor=CB3837" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-npm-20232A?style=for-the-badge&logo=npm&logoColor=CB3837" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-Go-20232A?style=for-the-badge&logo=Go&logoColor=00ADD8" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Go-20232A?style=for-the-badge&logo=Go&logoColor=00ADD8" height="35"/>&nbsp;
+
 <img src="https://img.shields.io/badge/-Python-20232A?style=for-the-badge&logo=Python&logoColor=3776AB" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-GraphQL-20232A?style=for-the-badge&logo=GraphQL&logoColor=E10098" height="35"/>&nbsp;
 <img src="https://img.shields.io/badge/-ChakraUI-20232A?style=for-the-badge&logo=ChakraUI&logoColor=319795" height="35"/>&nbsp;
