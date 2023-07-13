@@ -116,11 +116,11 @@ You can click the Preview link to take a look at your changes.
 
 [facebook-url]: https://facebook.com/shourov.hanifa
 [facebook-shield]: https://img.shields.io/badge/-Facebook-20232A?style=for-the-badge&logo=facebook&logoColor=1877F2
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=1D9BF0
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0A66C2
 [linkedin-url]: https://www.linkedin.com/in/mohammed-abu-hanifa-4611b515b/
-[mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-moh.abuhanifa@gmail.com-lightgray
+[mail-shield]: https://img.shields.io/badge/Email-moh.abuhanifa@gmail.com-EA4335?style=for-the-badge&logo=gmail
 [mail-url]: mailto:moh.abuhanifa@gmail.com
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
+[instagram-shield]: https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=E4405F
 [instagram-url]: https://www.instagram.com/shourovahmd/
 [twitter-url]: https://twitter.com/mohabuhanifa
 [twitter-shield]: https://img.shields.io/badge/-Twitter-20232A?style=for-the-badge&logo=twitter&logoColor=1D9BF0

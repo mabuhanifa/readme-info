@@ -9,3 +9,5 @@
 <img src="https://img.shields.io/badge/-Twitter-20232A?style=for-the-badge&logo=twitter&logoColor=1D9BF0" height="25" />
 
 <img src="https://img.shields.io/badge/-LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=1D9BF0" height="25" />
+
+<img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=E4405F" height="25" />
