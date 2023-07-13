@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Email-moh.abuhanifa@gmail.com-EA4335?style=badge&logo=gmail" height="20"/>&nbsp;
+<img src="https://img.shields.io/badge/Email-moh.abuhanifa@gmail.com-EA4335?style=badge&logo=gmail" height="25"/>&nbsp;
 
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=badge&logo=Facebook&logoColor=fff" height="20" />&nbsp;&nbsp;
 
